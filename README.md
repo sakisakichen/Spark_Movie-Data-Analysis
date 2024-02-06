@@ -19,3 +19,7 @@ Step 1 : Create GCP Dataproc \
 Step 2 : Upload data CSV files into GCP via SSH \
 Step 3 : put files into HDFS folder\
 Step 4 : Explore the analysis via jupyternotebook accessing data in GCP HDFS 
+
+
+### Insight gained 
+Effectively conducted a thorough movie data analysis initiative, showcasing expertise in Hadoop ecosystem tools, Spark, and adept data management in both local and cloud environments.
