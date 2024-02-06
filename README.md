@@ -15,7 +15,7 @@ This projects contains 3 data CSV files
 - Jupyternotebook [page](link)
 
 ### Project Steps
-Step 1 : create GCP Dataproc \
-Step 2 : upload data CSV files into GCP via SSH \
+Step 1 : Create GCP Dataproc \
+Step 2 : Upload data CSV files into GCP via SSH \
 Step 3 : put files into HDFS folder\
-Step 4 : explore the analysis via jupyter notebook with the access data in GCP HDFS 
+Step 4 : Explore the analysis via jupyternotebook accessing data in GCP HDFS 
