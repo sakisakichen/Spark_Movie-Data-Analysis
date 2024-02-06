@@ -12,7 +12,7 @@ This projects contains 3 data CSV files
 - GCP Dataproc (Google Cloud Platform managed service for Spark and Hadoop)
 - Pyspark
 - SparkSQL
-- Jupyternotebook [page](link)
+- Jupyternotebook [page](spark-assignment2_movie rating.ipynb)
 
 ### Project Steps
 Step 1 : Create GCP Dataproc \
